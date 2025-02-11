@@ -10,8 +10,6 @@ img {
 
 .primeirasecao {
     display: flex;
-    justify-content: center;
-    align-items: center;
     width: 1000px;
     height: 500px;
     background-color: rgb(56, 139, 218);
